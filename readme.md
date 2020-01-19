@@ -1,5 +1,7 @@
 # My collection of katas from https://codewars.com
 
+![](https://www.codewars.com/users/leudanielm/badges/small)
+
 These are katas that I've solved on codewars.com, will try my best to keep this repository up to date. Each kata has its own file, where a link to the respective challenge is provided as a top comment in the header.
 
 My favourite languages to solve katas in are JavaScript, C# and SQL.
